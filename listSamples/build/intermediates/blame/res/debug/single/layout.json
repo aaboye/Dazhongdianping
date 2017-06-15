@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_tabs.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_tabs.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_underlines.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_underlines.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\themed_circles.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\themed_circles.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_circles.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_circles.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_lines.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_lines.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_circles_vertical.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_circles_vertical.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\themed_underlines.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\themed_underlines.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\themed_lines.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\themed_lines.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_icons.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_icons.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\themed_titles.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\themed_titles.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_titles.xml"
+    },
+    {
+        "merged": "C:\\gsd1703\\Dazhongdianping\\listSamples\\build\\intermediates\\res\\merged\\debug\\layout\\simple_titles_bottom.xml",
+        "source": "C:\\gsd1703\\Dazhongdianping\\listSamples\\src\\main\\res\\layout\\simple_titles_bottom.xml"
+    }
+]
