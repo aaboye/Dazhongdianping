@@ -29,7 +29,7 @@ public class SplashActivity extends AppCompatActivity {
                 if (sharePreferenceUtil.isFirst()) {
                     //想新手指导页跳转
                     intent = new Intent(SplashActivity.this, GuideActivity.class);
-
+                    sharePreferenceUtil.setFirst(false);
                 } else {
                     //向主页面跳转
                     intent = new Intent(SplashActivity.this, MainActivity.class);
